@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # 제1장 총칙
 
 
